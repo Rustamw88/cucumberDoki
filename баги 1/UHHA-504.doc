@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#UHHA-504] В меню программы нет возможности открыть более одного файла одновременно.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://betester.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [UHHA-504]&nbsp;<a href="https://betester.atlassian.net/browse/UHHA-504">В меню программы нет возможности открыть более одного файла одновременно.</a>
+            <span class="subText">
+               Создано: 03/авг/20                   &nbsp;Обновлено: 05/авг/20
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://betester.atlassian.net/secure/BrowseProject.jspa?id=10012">Тяпаев Рустам</a></td>
+    </tr>
+
+    
+
+    
+
+        <tr>
+            <td><b>Версии фикса:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Серьезно
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="tyapaevr"
+                id="word_reporter_tyapaevr"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5f1ff6725227f50014904d94">
+                    rustam
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="admin"
+                id="word_assignee_admin"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5ce40618c33a5d0dcf0b65b1">
+                    Vladimir Falchuk
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+    
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Bug Type:</b></td>
+                <td id="customfield_10029-13913-value" class="value" bgcolor="#ffffff" width="80%">    Usability
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Component:</b></td>
+                <td id="customfield_10030-13913-value" class="value" bgcolor="#ffffff" width="80%">    ListBoxer
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>создать и сохранить в папку несколько произвольных списков</li>
+	<li>Открыть вкладку Файл</li>
+	<li>Выбрать Open</li>
+	<li>Выделить два документа сразу</li>
+</ol>
+
+
+<p><b>Результат:</b> нет возможности открыть более одного списка<br/>
+<b>Ожидаемый результат:</b> создать дополнительные окна программы, чтобы работать одновременно с несколькими списками.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Комментарии</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-13801"><td bgcolor="#f0f0f0">
+            Комментарий по  
+                                                    
+                
+        
+            <a class="user-hover" rel="tyapaevr"
+                id="word_commented_tyapaevr"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5f1ff6725227f50014904d94">
+                    rustam
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">05/авг/20</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-13801"><td bgcolor="#ffffff">
+            <p>+</p>
+        </td></tr>
+                <tr id="comment-header-13816"><td bgcolor="#f0f0f0">
+            Комментарий по  
+                                                    
+                
+        
+            <a class="user-hover" rel="admin"
+                id="word_commented_admin"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5ce40618c33a5d0dcf0b65b1">
+                    Vladimir Falchuk
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">05/авг/20</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-13816"><td bgcolor="#ffffff">
+            <p>Баг оформлен хорошо)</p>
+        </td></tr>
+            </table>
+Полученный Mon Aug 17 22:01:23 UTC 2020 rustam используя JIRA 1001.0.0-SNAPSHOT#100144-sha1:420809e1e6706f6aecc682d7ec10bfef1f0f037f.
+
+</body>
+</html>
