@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#UHHA-690] в разделе Featured tours  тур не добавляется в список желаний</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://betester.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [UHHA-690]&nbsp;<a href="https://betester.atlassian.net/browse/UHHA-690">в разделе Featured tours  тур не добавляется в список желаний</a>
+            <span class="subText">
+               Создано: 12/авг/20                   &nbsp;Обновлено: 13/авг/20
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Статус:</b></td>
+        <td width="80%">К выполнению</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Проект:</b></td>
+        <td width="80%"><a href="https://betester.atlassian.net/secure/BrowseProject.jspa?id=10012">Тяпаев Рустам</a></td>
+    </tr>
+
+    
+
+    
+
+        <tr>
+            <td><b>Версии фикса:</b></td>
+            <td>
+                            Нет
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Тип:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Баг
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Приоритет:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Серьезно
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Автор:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="tyapaevr"
+                id="word_reporter_tyapaevr"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5f1ff6725227f50014904d94">
+                    rustam
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Исполнитель:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="admin"
+                id="word_assignee_admin"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5ce40618c33a5d0dcf0b65b1">
+                    Vladimir Falchuk
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Решение:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Нет решения
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Голоса:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+    
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Вложения:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://betester.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG файл">
+                    image-2020-08-13-01-26-24-184.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Bug Type:</b></td>
+                <td id="customfield_10029-14348-value" class="value" bgcolor="#ffffff" width="80%">    Functional
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Component:</b></td>
+                <td id="customfield_10030-14348-value" class="value" bgcolor="#ffffff" width="80%">    PhpTravels
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Описание</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li>открыть главную страницу сайта</li>
+	<li>прокрутить страницу вниз до раздела "Featured Tours"</li>
+	<li>выбрать любой тур нажать на него</li>
+	<li>прокрутить страницу вниз до раздела с комментариями</li>
+	<li>нажать кнопку ADD to wishlist</li>
+	<li>прокрутить страницу вверх</li>
+	<li>нажать кнопку usera</li>
+	<li>выбрать Account</li>
+	<li>нажать WISHLIST<br/>
+<b>Результат:</b> список пуст<br/>
+ <span class="image-wrap" style=""><a id="14906_thumb" href="/secure/attachment/14906/14906_image-2020-08-13-01-26-24-184.png" title="image-2020-08-13-01-26-24-184.png" file-preview-type="image" file-preview-id="14906" file-preview-title="image-2020-08-13-01-26-24-184.png"><jira-attachment-thumbnail url="https://betester.atlassian.net/secure/thumbnail/14906/image-2020-08-13-01-26-24-184.png?default=false" jira-url="https://betester.atlassian.net/secure/thumbnail/14906/image-2020-08-13-01-26-24-184.png" filename="image-2020-08-13-01-26-24-184.png"><img src="https://betester.atlassian.net/secure/thumbnail/14906/image-2020-08-13-01-26-24-184.png" data-attachment-name="image-2020-08-13-01-26-24-184.png" data-attachment-type="thumbnail" data-media-services-id="d20c92d7-9094-4cf1-9065-013157d1e394" data-media-services-type="file" style="border: 0px solid black" /></jira-attachment-thumbnail></a></span> <br/>
+<b>Ожидаемый результат:</b> в список должен был добавиться выбранный тур</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Комментарии</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-14300"><td bgcolor="#f0f0f0">
+            Комментарий по  
+                                                    
+                
+        
+            <a class="user-hover" rel="admin"
+                id="word_commented_admin"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5ce40618c33a5d0dcf0b65b1">
+                    Vladimir Falchuk
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">13/авг/20</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-14300"><td bgcolor="#ffffff">
+            <p>Баг оформлен хорошо)</p>
+        </td></tr>
+                <tr id="comment-header-14322"><td bgcolor="#f0f0f0">
+            Комментарий по  
+                                                    
+                
+        
+            <a class="user-hover" rel="tyapaevr"
+                id="word_commented_tyapaevr"
+                href="https://betester.atlassian.net/secure/ViewProfile.jspa?accountId=5f1ff6725227f50014904d94">
+                    rustam
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">13/авг/20</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-14322"><td bgcolor="#ffffff">
+            <p>+</p>
+        </td></tr>
+            </table>
+Полученный Mon Aug 17 21:40:41 UTC 2020 rustam используя JIRA 1001.0.0-SNAPSHOT#100144-sha1:420809e1e6706f6aecc682d7ec10bfef1f0f037f.
+
+</body>
+</html>
